@@ -1,4 +1,4 @@
-# security model
+# Security Model
 
 etcd supports SSL/TLS as well as authentication through client certificates, both for clients to server as well as peer (server to server / cluster) communication.
 
